@@ -1,0 +1,9 @@
+<IfModule mod_rewrite.c>
+
+  RewriteEngine On
+
+  RewriteRule ^optimus/([0-9a-zA-Z-._]+) app.php?page=$1 [NC,L]
+  RewriteRule ^optimus app.php [NC,L]
+ 
+
+</IfModule>

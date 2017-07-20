@@ -1,0 +1,42 @@
+
+/*************88
+               
+                       php_uname('v') //get version of os
+                       php_uname('s') //get os
+*****************/
+/***********************************
+below is the list of those code which are most important for AI
+**************************************/
+/*
+         01) metaphone      // to create similar sounding words
+         02) bin2hex        // to create password in hexa decimal
+         03) levenshtein    // to determine the distance of a word from other word
+         04) money_format   // to convert a number into a currency string
+         05) strpos         // to find the position of the string
+         06) explode        // to split the paragraph
+         07) join / implode // to join a array
+         08) trim / rtrim   // to remove any thing from end
+         09) similar_text   // to check the similarity of the worlds
+         10) str_ireplace   // to replace a word with other word
+         11) str_repeat     // to repeat a word x times
+         12) str_replace    // same as str_ireplace but it is for the array
+         13) str_shuffle    // to shuffle a string any way
+         14) str_split      // to split string in a array
+         15) strcasecmp     // case insensitive string comparison
+         16) strcmp         // case sensitive string comparison
+         17) stristr        // find the first occurrence of a substring in a string
+         18) strlen         // Returns the length of a string
+         19) strrev         // reverse a string to render it backword
+         20) strtolower     // to convert a string in the lower case
+         21) strtoupper     // to convert a string in the upper case
+         22) substr_count   // to count the number of time a string comes   it is usefull
+         23) substr_replace // to replace the string at any place it is usefull
+         24) substr         // return the spacific portion of the string
+         25) word_wrap      // to wrap the words in a limit
+         26) count          // to count the size of array
+         27) strrchr        // find the last occurace of a string
+         28) serialize
+         29) str_split      //this is to split paragraph in chunks of array str_split($myString, 6);
+         30) ltrim          //trim from the start with white space ltrim($myString, "I wish");
+         31) chunk_split    //slit chunk_split($myString, 4, "-");
+*/

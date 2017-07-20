@@ -1,0 +1,413 @@
+/**************************************
+This css is for the app
+**************************************/
+
+html{
+		background-color:#f2f2f2;
+		color:#757f8c;
+		font-family:text-normal;
+}
+
+body{
+	margin:0px;
+	padding:0px;
+	font-size:15px;
+}
+
+.main_frame{
+			margin-left:140px;
+			margin-top:30px;
+}
+
+a{text-decoration:none;}
+
+/*********************************************
+menu.fragment.php
+********************************************/
+
+.menu{	
+		height:100%;
+		width:8%;
+		 position:fixed;
+		 top:0%;
+		 left:0%;
+		 background:white;
+		 border-right:1px solid #e6e9ec;
+		 /*box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.08);*/
+}
+
+
+.logo{text-align:center;
+	  height:50px;
+	  line-height:50px;
+	  font-family:text-logo;
+	  font-size:22px;
+	  color:#0facf3;
+	  border-bottom:1px solid #ceede5;
+}
+
+.logo:hover{background:#0facf3;
+			color:white;
+			border-bottom:1px solid #0facf3;
+}
+
+.options_holder{margin-top:0px;
+}
+
+.options_a{text-decoration:none;
+		  color:#757f8c;
+}
+
+.option{font-size:14px;
+		line-height:30px;
+		text-align:center;
+		text-transform:capitalize;
+		opacity:0.6;
+		padding-top:20px;
+		padding-bottom:20px;
+}
+
+
+.option:hover{background-color:#ceede5;
+			  opacity:1;
+}
+
+.selected_option{background-color:#ceede5;
+			  opacity:1;}
+
+.optimus_in_app{position:absolute;
+		left:12%;
+		top:10px;
+		 width:80px;
+		 height:80px;
+		 background:white;
+		 margin-right:100px;
+		 padding:20px;
+		 border-radius:200px;
+		 overflow:hidden;
+		 box-shadow:0px 2px 5px 2px rgba(230,230,230,0.3);
+}
+
+.optimus_in_app img{width:80px;
+			  height:80px;
+			  margin-top:5px;
+}
+
+/**************************************************
+dashboard.php
+**************************************************/
+
+.optimus_in_app{}
+
+.welcome_heading{text-align:center;
+				 font-family:text-heading-bold;
+				 font-size:36px;  
+				 width:104%;
+			  	margin-left:-50px;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
+}
+
+.welcome_body{text-align:center;
+			  font-family:text-normal;
+			  font-size:18px;
+			  margin-top:10px;
+			  border-bottom:1px solid #e1e4e8;
+			  padding-bottom:60px;
+			  width:104%;
+			  margin-left:-50px;
+}
+
+.tip_box{width:250px;
+	 padding:20px;
+	 float:left;
+	 margin-top:25px;
+	 background-color:white;
+	 border-radius:3px;
+	 box-shadow:0px 2px 5px 2px rgba(230,230,230,0.3);
+	 color:#19323C;
+	 margin-bottom:40px;
+	 margin-left:0px;
+}
+
+.tip_heading{height:40px;
+			 line-height: 40px;
+			 margin-left:-20px;
+			 margin-right:-20px;
+			 margin-top:-20px;
+			 text-align:center;
+			 border-bottom:1px solid #e6e9ec;
+			 color: #2c596b;
+}
+
+.tip_body{margin-top:20px;
+color:#757f8c;}
+
+.investment_planner_box{
+	 width:800px;
+	 padding:20px;
+	 float:right;
+	 margin-top:25px;
+	 background-color:white;
+	 border-radius:3px;
+	 box-shadow:0px 2px 5px 2px rgba(230,230,230,0.3);
+	 color:#19323C;
+	 margin-bottom:40px;
+	 margin-right:60px;}
+
+.investment_planner_heading{height:50px;
+			 line-height: 50px;
+			 margin-left:-20px;
+			 margin-right:-20px;
+			 margin-top:-20px;
+			 text-align:center;
+			 border-bottom:1px solid #e6e9ec;
+			 color: #2c596b;
+			 background-color:#0facf3;
+			 color:white;
+			 border-radius:3px 3px 0px 0px;
+			 font-size:18px;
+			}
+
+.investment_planner_body{margin-top:20px;
+color:#757f8c;}
+
+/*****************************************************
+data_upload.php
+******************************************************/
+
+.upload_box{background-color:white;
+			 padding:20px;
+			 color:#5d5e5f;
+			 width:350px;
+			 border-radius:3px;
+			 position:absolute;
+			 left:50%;
+			 margin-left:-150px;
+			 margin-top:60px;
+			 
+}
+
+.upload_box_heading{text-align: center;
+					 font-family:text-roboto-thin;
+					 font-weight:bold;
+					 font-size:20px;
+					 line-height:50px;
+					 height:50px;
+					 margin-bottom:00px;
+}
+
+#data_file{text-align:center;}
+
+#progress_bar{border:0px;
+			 border-radius:3px 3px 0px 0px;
+			 height:25px;
+			 margin:-20px;
+			 margin-bottom:20px;
+			 background-color:#B5DBFF;
+			 display:none;
+	}
+
+
+#progress_bar .progress-label{position:absolute;
+							  line-height:25px;
+							  width:390px;
+							  text-align:center;
+							  font-size:12px;
+							  color:white;
+}
+
+ #progress_bar .ui-progressbar-value {
+    background-color: #FF9505;
+    border-radius:3px 3px 0px 0px;
+    border:0px;
+   }
+
+ .error_box{max-width:250px;
+ 			border-radius:3px;
+ 			padding:20px;
+ 			position:fixed;
+ 			bottom:0%;
+ 			right:0%;
+ 			margin-right:30px;
+ 			margin-bottom:30px;
+ 			background-color: #564138;
+ 			font-family: text-cool-normal;
+ 			color:white;
+ 			display:none;
+ }
+
+ .success_box{max-width:250px;
+ 			border-radius:3px;
+ 			padding:20px;
+ 			position:fixed;
+ 			top:0%;
+ 			right:0%;
+ 			margin-right:30px;
+ 			margin-top:30px;
+ 			background-color: #4F74CC;
+ 			font-family: text-cool-normal;
+ 			color:white;
+ 			display:none;
+ 		}
+
+
+/**************************************************************************
+ANALYSIS.PHP
+***********************************************************************/
+
+.analysis_container{margin-top:60px;}
+
+.box{width:500px;
+	 padding:20px;
+	 float:left;
+	 margin-top:40px;
+	 background-color:white;
+	 border-radius:3px;
+	 box-shadow:0px 2px 5px 2px rgba(230,230,230,0.3);
+	 color:#19323C;
+	 margin-bottom:40px;
+	 margin-left:40px;
+}
+
+.box:nth-child(even){margin-left:60px;}
+
+.big_box{
+
+	width:700px;
+	 padding:20px;
+	 margin:0px auto;
+	 margin-top:40px;
+	 margin-bottom:40px;
+	 background-color:white;
+	 border-radius:3px;
+	 box-shadow:0px 2px 5px 2px rgba(230,230,230,0.3);
+	 color:#19323C;
+}
+
+.box_heading{float:left;
+		  margin-top:-20px;
+		  font-family:text-roboto-thin;
+		  font-weight:bold;
+		  font-size:18px;
+		  height:40px;
+		  line-height:40px;
+}
+
+.graph_indicator{float:left;
+				 background-color:#5B6B93;
+				 border-radius:100px;
+				 color:white;
+				 width:40px;
+				 height:40px;
+				 margin-right:10px;
+				 margin-top:-20px;
+				 text-align:center;
+				 padding:10px;
+				 font-size:16px;
+				 box-shadow:0px 0px 5px 2px rgba(230,230,230,0.4);
+}
+
+.box_body{
+		  margin-top:40px;
+}
+
+.analysis_heading{text-align:center;
+			font-size:26px;
+			font-family:text-heading;
+			float:left;
+			width:100%;
+			margin-bottom:20px;
+}
+
+.analysis_heading sub{font-size:14px;
+					  font-family:text-normal;
+}
+
+.analysis_body{padding-bottom:60px;
+				float:left;
+				width:104%;
+			  margin-left:-50px;
+}
+
+.deduction_box{
+			   background:white;
+			   padding:50px;
+			   padding-top:100px;
+			   padding-bottom:100px;
+			   margin-top:20px;
+			   float:right;
+			   width:96%;
+}
+
+.deduction_title{text-align:center;
+				  line-height:28px;
+				  font-size:28px;
+				  font-family:text-heading;
+				  color:#54428e;
+}
+
+.deduction_body{width:700px;
+				margin:0px auto;
+				margin-top:30px;
+				line-height:30px;
+				font-size:18px;
+
+}
+
+
+/*******************************************88
+Investment simulator
+**********************************************/
+
+.investment_input{height:40px;
+				  width:265px;
+				  line-height:40px;
+				  padding-left:20px;
+				  border-radius:3px;
+				  border:1px solid #e6e9ec;
+				  font-family:text-normal;
+				  
+				  font-size:16px;
+				  margin-left:15px;
+
+}
+
+
+.investment_button{ 
+                height:44px;
+                padding-left:30px;
+                padding-right:30px;
+                background-color:#5e96dc;
+                border:0px;
+                border-radius:3px;
+                -moz-border-radius:3px;
+                -webkit-border-radius:3px;
+                font-size:14px;
+                font-weight:bold;
+                cursor:pointer;
+                display:inline-block;
+                color:#BAE9FF;
+                outline:none;
+                transition: all .2s ease;
+                font-family:text-cool-normal;
+                margin-left:15px;
+
+}
+
+.investment_button:hover {
+                background-color:#456EA1;
+                outline:none;
+}
+
+.investment_button:active {
+  position:relative;
+  top:1px;
+}
+
+
+.simulator_result{
+					margin-top:10px;
+					padding:10px;
+}
+
+.rating{text-align:center;}
+
