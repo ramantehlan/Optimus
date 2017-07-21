@@ -8,7 +8,7 @@ This app allows all the retailer's or shop owners to upload their monthly or wee
  ### 1) OCR for SKU images.
 This app allows you to upload SKU (stock keeping unit) images and then Optimus do image processing to read those images and try to find out if bottles are placed in their right spot or if prices are right on those bottles. Optimus use [tesseract](https://github.com/thiagoalessio/tesseract-ocr-for-php) library for image processing
 
-`This feature a bit incomplete`
+`This feature is a bit incomplete`
 
 ### 2) Investment simulator
 This is one of the best features of Optimus, it allows Optimus to use current data sets to predict about the **return on investment (ROI)**. This feature takes two inputs, first is amount/money we want to invest and second is the brand in which we want to invest, once you run the simulation, Optimus analyse various data sets and rate this investment out of 100. This rating helps you to get the confidence about your investment. if the rating is 80 or something, then it's good. if the rating is 50 or something then there are 50/50 chances of it being good and if the rating is below 30 or 40 then it is very risky and its chances of being profitable are very low.
