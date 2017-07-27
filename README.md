@@ -1,6 +1,6 @@
 
 # Optimus
-This is the project which I create for **AbinBev Hackathon Feb-2017**. It is a web app which is home to a powerful Artificial Intelligence(AI), named as Optimus. which help business visualise their data sets and get better insights into the factors which are driving sales.
+This is the project which I create for **AbinBev Hackathon Feb-2017**. It is a web app, home to a powerful Artificial Intelligence(AI), named as Optimus. which help business visualise their data sets and get better insights into the factors which are driving sales.
 
 This app allows all the retailer's or shop owners to upload their monthly or weekly sales data *(as a CSV or Excel file)* and then by **machine learning** it create a database automatically. Once the database is ready, it **visualises** all the data sets in the form charts and graphs, also it analyses all the data sets to tell you about important **insights** below every visualisation. Those important insights include `When to advertise for more sales`, `When to give offers to customers`, `Which product to produce more`,  `which product needs attention` etc. This app also provides you with random facts about your industry.
 
@@ -18,6 +18,17 @@ This is one of the best features of Optimus, it allows Optimus to use current da
 
 `This feature is a bit incomplete`
 
+# Backstory
+
+#### You probably don't want to read it
+
+I attended my first [*Hackathon*](http://www.hackathon.io/abinbev-hacktheworld-bangalore/schedules) on Friday, Feb 03 2017 at Bangalore, India. I learned some of my life's most important lessons there.
+
+#### What's in it for you
+
+Well, there is not much for you in it. But if ever go to a similar Hackathon then I guess you might find Optimus interesting. 
+
+*PS: Do play fair at Hackathons and even if you think you won't win, still give it your best shot. Remember not be afraid of feeling less smart or making mistakes cause everyone was a beginner once and most important **fail early, learn early**.*
 
 # Screenshots
 
