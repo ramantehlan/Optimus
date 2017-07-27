@@ -26,7 +26,7 @@ I attended my first [*Hackathon*](http://www.hackathon.io/abinbev-hacktheworld-b
 
 #### What's in it for you
 
-Well, there is not much for you in it. But if ever go to a similar Hackathon then I guess you might find Optimus interesting. 
+Well, there is not much for you in it. But if you ever go to a similar Hackathon then I guess you might find Optimus interesting. 
 
 *PS: Do play fair at Hackathons and even if you think you won't win, still give it your best shot. Remember not be afraid of feeling less smart or making mistakes cause everyone was a beginner once and most important **fail early, learn early**.*
 
