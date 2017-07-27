@@ -17,3 +17,11 @@ This app allows you to upload SKU (stock keeping unit) images and then Optimus d
 This is one of the best features of Optimus, it allows Optimus to use current data sets to predict about the **return on investment (ROI)**. This feature takes two inputs, first is amount/money we want to invest and second is the brand in which we want to invest, once you run the simulation, Optimus analyse various data sets and rate this investment out of 100. This rating helps you to get the confidence about your investment. if the rating is 80 or something, then it's good. if the rating is 50 or something then there are 50/50 chances of it being good and if the rating is below 30 or 40 then it is very risky and its chances of being profitable are very low.
 
 `This feature is a bit incomplete`
+
+
+# Screenshots
+
+![Capture 1](https://ramantehlan.github.io/Optimus/assets/Capture.JPG)
+![Capture 2](https://ramantehlan.github.io/Optimus/assets/Capture2.JPG)
+![Capture 3](https://ramantehlan.github.io/Optimus/assets/Capture3.JPG)
+![Capture 4](https://ramantehlan.github.io/Optimus/assets/Capture4.JPG)
