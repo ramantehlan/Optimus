@@ -1,4 +1,3 @@
-![Optimus](https://ramantehlan.github.io/Optimus/assets/image/18134461ca57c4513277c0a134274dae.jpg)
 
 # Optimus
 This is the project which I create for **AbinBev Hackathon Feb-2017**. It is a web app which is home to a powerful Artificial Intelligence(AI), named as Optimus. which help business visualise their data sets and get better insights into the factors which are driving sales.
