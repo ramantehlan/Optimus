@@ -6,6 +6,8 @@ creator:- raman tehlan
 Date of creation:- 04/02/2017 at 1:14am
 ***************************************************/
 
+//MYSQL DETAIL AREA
+
 $db_host = "localhost";
 $db_user = "root";
 $db_pass = "";
