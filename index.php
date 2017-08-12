@@ -13,7 +13,7 @@
 	<body>
 
 			<div class="optimus">
-					<img src="http://localhost/assets/image/18134461ca57c4513277c0a134274dae.jpg">
+					<img src="assets/image/18134461ca57c4513277c0a134274dae.jpg">
 			</div>
 
 			<div class="heading effect_1">
@@ -54,7 +54,7 @@
 			</div>
 
 			<div class="try_line effect_3">
-					<a href="optimus/dashboard">	
+					<a href="app?page=dashboard">	
 						<div>
 							Excited? Check me out!
 						</div>
