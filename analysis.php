@@ -333,10 +333,10 @@ function get_month($no){
 
 			</style>
 
-		<script type="text/javascript" src="http://localhost/assets/script/chart.js"></script>
+		<script type="text/javascript" src="assets/script/chart.js"></script>
 
 <div class="optimus_in_app">
-	<img src="http://localhost/assets/image/18134461ca57c4513277c0a134274dae.jpg">
+	<img src="assets/image/18134461ca57c4513277c0a134274dae.jpg">
 </div>		
 
 <div class="welcome_heading effect_top_1">
