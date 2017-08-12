@@ -18,6 +18,22 @@ This is one of the best features of Optimus, it allows Optimus to use current da
 
 `This feature is a bit incomplete`
 
+# Installation
+
+
+**Step 1: Download the project to root directory**
+
+  - Download the project and unzip only in the root directory of your website root or localhost.
+
+**Step 2: Import database to MySQL**
+
+  - You need to import one **.sql** files to MySQL database. that file is: `db.sql` in the root directory.
+
+
+**Step 3: Configure program**
+
+  - Now you need to go to `connect.inc.php` in the root directory and then change `MYSQL DETAIL AREA` to your MySql details.
+
 # Backstory
 
 #### You probably don't want to read it
