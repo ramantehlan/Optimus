@@ -1,4 +1,8 @@
 
+<p align="center">
+   <img src="https://ramantehlan.github.io/Optimus/assets/image/18134461ca57c4513277c0a134274dae.jpg" width="150"> 
+</p>
+
 # Optimus
 This is the project which I create for **AbinBev Hackathon Feb-2017**. It is a web app, home to a powerful Artificial Intelligence(AI), named as Optimus. which help business visualise their data sets and get better insights into the factors which are driving sales.
 
@@ -34,6 +38,14 @@ This is one of the best features of Optimus, it allows Optimus to use current da
 
   - Now you need to go to `connect.inc.php` in the root directory and then change `MYSQL DETAIL AREA` to your MySql details.
 
+# Contribution
+
+Feel free to add your own features or improve any current feature, any kind of help is appreciated!
+
+# License
+
+GNU General Public License v3.0
+
 # Backstory
 
 #### You probably don't want to read it
@@ -48,7 +60,9 @@ Well, there is not much for you in it. But if you ever go to a similar Hackathon
 
 # Screenshots
 
-![Capture 1](https://ramantehlan.github.io/Optimus/assets/Capture.JPG)
-![Capture 2](https://ramantehlan.github.io/Optimus/assets/Capture2.JPG)
-![Capture 3](https://ramantehlan.github.io/Optimus/assets/Capture3.JPG)
-![Capture 4](https://ramantehlan.github.io/Optimus/assets/Capture4.JPG)
+<p>
+<img src="https://ramantehlan.github.io/Optimus/assets/Capture.JPG" width="430">
+<img src="https://ramantehlan.github.io/Optimus/assets/Capture2.JPG" width="430">
+<img src="https://ramantehlan.github.io/Optimus/assets/Capture3.JPG" width="430">
+<img src="https://ramantehlan.github.io/Optimus/assets/Capture4.JPG" width="430">
+ </p>
